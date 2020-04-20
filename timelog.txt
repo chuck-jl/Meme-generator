@@ -1,0 +1,7 @@
+Total used time: ~ 2.5 hours
+Time breakdown:
+1. building template container html and default css: 1.25 hour
+2. building js event listener and elements: 1 hour
+3. building reference and time log: 0.25 hour
+
+css referenced in building html template: https://colorlib.com/wp/template/contact-form-v18/
